@@ -35,6 +35,8 @@ This is a web application that ultimately helps Eau Clair to manage her lists of
     `` dotnet run `` 
 5. Open local host live server to start using the web application.
 
+This program was built using Microsoft .NET SDK 5.0.401, and may not be compatible with other versions. Your milage may vary.
+
 ## Known Bugs
 
 * None observed
